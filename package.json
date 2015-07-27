@@ -1,0 +1,34 @@
+{
+  "name": "generator-gulp-boilerplate",
+  "version": "0.0.1",
+  "description": "Yeoman Generator for Gulp Boilerplate",
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nandomoreirame/generator-gulp-boilerplate.git"
+  },
+  "keywords": [
+    "gulp",
+    "boilerplate",
+    "compass",
+    "browser-sync",
+    "gulp-ruby-sass"
+  ],
+  "author": [
+    "Fernando Moreira <nandomoreira.me@gmail.com>"
+  ],
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nandomoreirame/generator-gulp-boilerplate/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "yeoman-generator": "^0.17.6"
+  }
+}
