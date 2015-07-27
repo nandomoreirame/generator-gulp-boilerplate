@@ -8,11 +8,9 @@
     "url": "git@github.com:nandomoreirame/generator-gulp-boilerplate.git"
   },
   "keywords": [
+    "yeoman-generator",
     "gulp",
-    "boilerplate",
-    "compass",
-    "browser-sync",
-    "gulp-ruby-sass"
+    "boilerplate"
   ],
   "author": [
     "Fernando Moreira <nandomoreira.me@gmail.com>"
