@@ -12,11 +12,11 @@
     "gulp",
     "boilerplate"
   ],
-  "author": [
+  "author": {
     "name": "Fernando Moreira",
     "email": "nandomoreira.me@gmail.com",
     "url": "http://nandomoreira.me/"
-  ],
+  },
   "license": [
     {
       "type": "MIT",
