@@ -43,10 +43,10 @@ var GulpBoilerplateGenerator = generators.Base.extend({
 
   runNpm: function () {
     this.npmInstall();
-    console.log('\nEverything Setup !!!\n');
   },
 
   end: function () {
+    console.log('\nPlease wait, installing npm dependencies...\n');
   }
 });
 

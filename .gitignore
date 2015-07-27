@@ -21,12 +21,3 @@
 
 # Ignore Node Modules
 node_modules/
-
-# Ignore Gemfile.lock
-Gemfile.lock
-
-# Ignore dist files
-dist/fonts
-dist/images
-dist/css
-dist/js
