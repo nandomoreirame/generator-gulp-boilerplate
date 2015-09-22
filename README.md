@@ -1,10 +1,10 @@
-# Gulp boilerplate Generator
+![](/yo.png)
 
-![](/gulp.png)
+# Gulp boilerplate Generator
 
 > [Yeoman](http://yeoman.io/generators/) generator for [Gulp boilerplate](https://github.com/nandomoreirame/gulp-boilerplate)
 
-![](/yo.png)
+![](/gulp.png)
 
 ### How To Use
 
