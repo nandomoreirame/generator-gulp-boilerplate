@@ -19,6 +19,8 @@ $ sudo npm install -g generator-gulp-boilerplate
 $ yo gulp-boilerplate
 ```
 
+![](/welcome.png)
+
 ## License
 
 It is free under the [open-source MIT license](/LICENSE).
