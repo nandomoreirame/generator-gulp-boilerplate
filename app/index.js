@@ -36,6 +36,7 @@ var GulpBoilerplateGenerator = generators.Base.extend({
 
   projectfiles: function () {
     this.copy('gulp/config.json', 'gulp/config.json');
+    this.copy('.gitignore', '.gitignore');
     this.copy('README.md', 'README.md');
     this.copy('Gemfile', 'Gemfile');
     this.copy('config.rb', 'config.rb');
